@@ -1,0 +1,53 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:white
+}
+
+#page {
+  display:flex;
+  flex-direction: row;
+  background: url("./img/solar-flare-5120x2880-v0-1tmhsdtzoz3c1.png");
+  background-size: cover;
+  height: 100vh;
+}
+
+{ /* Solar Flare [5120x2880] by u/blankblank https://www.reddit.com/r/wallpaper/comments/189j89d/solar_flare_5120x2880/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button */
+
+}
+#left-bar {
+  display:flex;
+  flex: 1;
+  height: 100 vh;
+  
+}
+
+#brand-banner {
+  display:flex;
+  justify-content: center;
+  align-self: center;
+  background-color: grey;
+  opacity: 0.1;
+  flex-direction:row;
+  
+
+}
+
+
+
+
+#brand-banner {
+  opacity: 0.5;
+  display:flex;
+  width:30vw;
+  height: 10vh
+
+}
+
+#right-side-form {
+  display:flex;
+  justify-content: left;
+  flex-direction:column-reverse;
+  align-items:center;
+  
+
+}
